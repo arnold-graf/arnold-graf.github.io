@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oebl/precache-manifest.92cc2282b45d8b7db45b79c67364cc21.js"
+  "/oebl/precache-manifest.3bf21b98b4ecfdc2d00741fb4f61368c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "oebl"});
