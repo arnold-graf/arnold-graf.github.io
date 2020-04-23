@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8dad6d837b952c47f4fe",
-    "url": "/oebl/css/app.932e9843.css"
+    "revision": "e1f8d4fcebe7aaabffe7",
+    "url": "/oebl/css/app.0b63c4cf.css"
   },
   {
     "revision": "20e47b7a155c03501480",
     "url": "/oebl/css/chunk-vendors.bc8ccbc7.css"
   },
   {
-    "revision": "00850e5652cf4d236ce993ba9bc2d57c",
+    "revision": "537e584f19c0725f747860f43f112c36",
     "url": "/oebl/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oebl/js/about.7c2eb8f6.js"
   },
   {
-    "revision": "8dad6d837b952c47f4fe",
-    "url": "/oebl/js/app.717b8d29.js"
+    "revision": "e1f8d4fcebe7aaabffe7",
+    "url": "/oebl/js/app.23d519a1.js"
   },
   {
     "revision": "20e47b7a155c03501480",
